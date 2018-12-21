@@ -142,7 +142,7 @@ h3{
     padding-left: 65px;
     padding-right: 65px;
     top: 90px;
-    left: 255px;
+    left: 285px;
     padding-top: 10px;
     padding-bottom: 10px;
 
@@ -178,7 +178,7 @@ h3{
     padding-left: 24px;
     padding-right: 24px;
     top: 515px;
-    left: 458px;
+    left: 478px;
     padding-top: 10px;
     padding-bottom: 10px;
 
@@ -208,4 +208,7 @@ h3{
   .footer,
   .push {
     height: 50px;
+  }
+  #imgLink {
+      float: left;
   }
